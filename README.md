@@ -1,16 +1,26 @@
-## Hi there 👋
+# Marc Igual Pérez
 
-<!--
-**marcigualperez/marcigualperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aerospace Engineering student at UPC (ESEIAAT), Barcelona.
+Focused on data science, quantitative research and algorithmic trading.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Glider aerodynamic design**: designed and analysed a glider in XFLR5 (lift-to-drag ratio ~30)
+- **Take-off & landing simulation**: simplified aircraft flight-phase simulation in MATLAB
+- **CFD with OpenFOAM**: self-taught meshing, solving and post-processing workflow
+
+## Skills
+
+**Programming:** Python, C++, MATLAB
+
+**Engineering:** CFD, OpenFOAM, XFLR5, flight simulation
+
+**Interests:** data science, machine learning, quantitative research, algorithmic trading
+
+## Languages
+
+Catalan and Spanish (native), English (fluent)
+
+## Contact
+
+marc.igual.quant@gmail.com
